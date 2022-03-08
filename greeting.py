@@ -16,6 +16,7 @@ def main():
     greeting = Greeting(name)
     greeting.english()
     greeting.espanol()
+    greeting.japanese()
 
 
 if __name__ == "__main__":
